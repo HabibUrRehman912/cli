@@ -1,0 +1,21 @@
+{
+	"name" : "random-password-generator",
+	"version": "1. 0. 0",
+	"description": "A Cli that can generate random password for you",
+	"main": "index.js",
+	"author": {
+		"name": "Habib Ur Rehman",
+		"email": "",
+		"url": "",
+		},
+	"bin": {
+		"gen-pass": "index.js"
+	},
+	"scripts": {
+		"test": "node test.js"
+		},
+	"license": "MIT"
+	
+
+
+}
